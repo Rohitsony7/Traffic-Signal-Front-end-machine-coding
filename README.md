@@ -23,7 +23,7 @@ Technologies Used
 - Copy code : `git clone https://github.com/Rohitsony7/Traffic-Signal-Front-end-machine-coding.git`
 
 - Navigate to the project directory:
-- bash > cd Traffic-Signal-Front-end-machine-coding/
+- bash : `cd Traffic-Signal-Front-end-machine-coding/`
 
 Open the index.html file in your web browser.
 
