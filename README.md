@@ -1,4 +1,5 @@
-Traffic Signal Front-end Machine Coding
+<h1>Traffic Signal Front-end Machine Coding:</h1>
+
 This project is a front-end implementation of a traffic signal using HTML, CSS, and JavaScript. It simulates the behavior of a traffic signal by displaying different colors for each signal phase (red, yellow, and green) and controlling their timings.
 
 Features : 
@@ -14,13 +15,22 @@ JavaScript: Used for implementing the logic and controlling the behavior of the 
 
 Usage
 Clone the repository:
-bash
+
+
+bash :
+
 Copy code
+
 git clone https://github.com/Rohitsony7/Traffic-Signal-Front-end-machine-coding.git
+
+
 Navigate to the project directory:
 bash
 Copy code
-cd tTraffic-Signal-Front-end-machine-coding/
+
+
+cd Traffic-Signal-Front-end-machine-coding/
+
 Open the index.html file in your web browser.
 
 Observe the traffic signal changing its signal light colors based on the predefined timings.
